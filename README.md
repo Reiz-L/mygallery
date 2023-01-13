@@ -1,2 +1,2 @@
-# mcserver
-A mc server homepage
+# gallery
+a gallery
